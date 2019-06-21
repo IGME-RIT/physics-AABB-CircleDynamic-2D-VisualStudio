@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AABB_Circle_Dynamic_2D", "AABB_Circle_Dynamic_2D.vcxproj", "{122B135A-3B14-497D-AE86-FF502303D361}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{122B135A-3B14-497D-AE86-FF502303D361}.Debug|x64.ActiveCfg = Debug|x64
+		{122B135A-3B14-497D-AE86-FF502303D361}.Debug|x64.Build.0 = Debug|x64
+		{122B135A-3B14-497D-AE86-FF502303D361}.Debug|x86.ActiveCfg = Debug|Win32
+		{122B135A-3B14-497D-AE86-FF502303D361}.Debug|x86.Build.0 = Debug|Win32
+		{122B135A-3B14-497D-AE86-FF502303D361}.Release|x64.ActiveCfg = Release|x64
+		{122B135A-3B14-497D-AE86-FF502303D361}.Release|x64.Build.0 = Release|x64
+		{122B135A-3B14-497D-AE86-FF502303D361}.Release|x86.ActiveCfg = Release|Win32
+		{122B135A-3B14-497D-AE86-FF502303D361}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88ED3EA2-AB5C-407C-BB02-F0B534156586}
+	EndGlobalSection
+EndGlobal
