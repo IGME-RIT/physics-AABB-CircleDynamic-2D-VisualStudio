@@ -1,9 +1,0 @@
-﻿  main.cpp
-d:\profiles\njp2424\desktop\physics\level7\physics-aabb-circledynamic-2d-mastervs2019\aabb_circle_dynamic_2d\main.cpp(284): warning C4101: 'min2': unreferenced local variable
-d:\profiles\njp2424\desktop\physics\level7\physics-aabb-circledynamic-2d-mastervs2019\aabb_circle_dynamic_2d\main.cpp(284): warning C4101: 'min1': unreferenced local variable
-d:\profiles\njp2424\desktop\physics\level7\physics-aabb-circledynamic-2d-mastervs2019\aabb_circle_dynamic_2d\main.cpp(284): warning C4101: 'max2': unreferenced local variable
-d:\profiles\njp2424\desktop\physics\level7\physics-aabb-circledynamic-2d-mastervs2019\aabb_circle_dynamic_2d\main.cpp(284): warning C4101: 'max1': unreferenced local variable
-d:\profiles\njp2424\desktop\physics\level7\physics-aabb-circledynamic-2d-mastervs2019\aabb_circle_dynamic_2d\main.cpp(549): warning C4244: 'argument': conversion from 'double' to 'GLclampf', possible loss of data
-d:\profiles\njp2424\desktop\physics\level7\physics-aabb-circledynamic-2d-mastervs2019\aabb_circle_dynamic_2d\main.cpp(600): warning C4326: return type of 'main' should be 'int' instead of 'void'
-LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
-  AABB_Circle_Dynamic_2D.vcxproj -> D:\Profiles\njp2424\Desktop\Physics\level7\physics-AABB-CircleDynamic-2D-masterVS2019\AABB_Circle_Dynamic_2D\Debug\AABB_Circle_Dynamic_2D.exe
